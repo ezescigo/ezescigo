@@ -1,6 +1,6 @@
 # Ezequiel Scigolini's GitHub
 
-I am a fullstack developer with 3 years experience in Web and Single Page Apps development. Currently, I mainly work with: Typescript (React, Redux), Material UI and C# (.NET). I am also working with GraphQL, Express, Ionic UI, React Native.
+I am a fullstack developer with 3 years experience in Web and Single Page Apps development. Currently, I mainly work with: Typescript (React, Redux, Next), Material UI and C# (.NET). I am also working with GraphQL, Express, Solidity, React Native.
 
 ## Contact
 <a href="https://www.linkedin.com/in/ezequiel-scigolini"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
