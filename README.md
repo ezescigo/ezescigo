@@ -17,9 +17,9 @@ Web3: Solidity, hardhat.
 ![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-%1C2024.svg?style=for-the-badge&logo=expo&logoColor=%#1C2024)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TanstackQuery](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=reactquery&logoColor=%#FF4154)
+![TanstackQuery](https://img.shields.io/badge/TanstackQuery-%FF4154?style=for-the-badge&logo=reactquery&logoColor=%#FF4154)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=tailwindcss&logoColor=%#06B6D4)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%#06B6D4)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
 
