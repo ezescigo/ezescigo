@@ -15,7 +15,7 @@ Web3: Solidity, hardhat.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%#1C2024)
+![Expo](https://img.shields.io/badge/expo-%1C2024.svg?style=for-the-badge&logo=expo&logoColor=%#1C2024)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TanstackQuery](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=reactquery&logoColor=%#FF4154)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
